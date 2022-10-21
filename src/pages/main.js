@@ -16,7 +16,7 @@ class Main extends React.Component{
         <div>
             <main id="main">
                 <About/>
-                <WhyUs/>
+                {/* <WhyUs/> */}
                 <Clients/>
                 <Services/>
                 <Cta/>
